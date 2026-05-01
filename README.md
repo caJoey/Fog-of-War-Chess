@@ -2,7 +2,7 @@
 
 Starter repository for comparing AI agents in a Dark Chess / Fog-of-War MiniChess environment.
 
-## Current Features
+## Current Features 
 
 - 5x5 mini chess board
 - Basic game state representation
